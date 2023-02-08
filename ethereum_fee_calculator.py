@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# pip3 install argparse requests web3
+# pip3 install requests web3
 
 import argparse
 import requests
